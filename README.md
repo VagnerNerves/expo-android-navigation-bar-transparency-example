@@ -1,13 +1,8 @@
 <p align="center">
-  <!-- <img width="200px" alt="Project Title Logo" title="Project Title Logo" src="logo.svg" />
-   -->
+
   <h1 align="center">How to Add Transparency to the Navigation Bar on Android with Expo in React Native</h1>
 
-  <!-- <p align="center">
-    🔗 <a href="https://URLThisProject.com">https://URLThisProject.com</a> 🔗
-  </p>   -->
-
-Article published on LinkedIn:
+Article published on LinkedIn: <a href="https://www.linkedin.com/pulse/como-colocar-transpar%25C3%25AAncia-na-barra-de-navega%25C3%25A7%25C3%25A3o-do-nerves-santos-gpndf">read the article here</a>
 
 </p>
 
