@@ -1,4 +1,6 @@
 import { useEffect } from "react";
+
+/* Imports */
 import { Platform } from "react-native";
 import * as NavigationBar from "expo-navigation-bar";
 

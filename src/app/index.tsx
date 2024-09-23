@@ -1,10 +1,12 @@
-import { Image, ScrollView, Text, View } from "react-native";
-import { useSafeAreaInsets } from "react-native-safe-area-context";
+import { ScrollView, View } from "react-native";
+
+import { useSafeAreaInsets } from "react-native-safe-area-context"; /* Importando a biblioteca */
+
 import { Card } from "../components/Card";
 import { Avatar } from "../components/Avatar";
 
 export default function Home() {
-  const insets = useSafeAreaInsets();
+  const insets = useSafeAreaInsets(); /* Declarando o Hook */
 
   return (
     <View
@@ -12,7 +14,7 @@ export default function Home() {
         flex: 1,
         backgroundColor: "#f8fafc",
         paddingTop: insets.top + 32,
-        paddingBottom: insets.bottom,
+        paddingBottom: insets.bottom /* Aqui a área segura */,
         paddingHorizontal: 16,
 
         gap: 24,
